@@ -1,4 +1,4 @@
-###  Hi there, I'm Eduardo!
+###  Hi there, I'm Eduardo! 🇧🇷
 - Computer Science student at the Centro Universitário de Brasília – Ceub.
 - Passionate about low level programming and new tech.
 - Now studying about CUDA and parallelization on GPU.
