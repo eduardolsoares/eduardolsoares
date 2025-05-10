@@ -6,7 +6,7 @@
   <p align="center">
   <img src="https://i.pinimg.com/originals/93/08/1e/93081e266f7f0b20778d2736978b2e84.gif" alt="GIF" width="400">
 
-## Languages e Tools 💻
+## Languages and Tools 💻
 <div style="display: inline_block">
 <img align="center" alt="C" height="60" width="50" src=https://icongr.am/devicon/c-original.svg?size=128&color=currentColor>
 <img align="center" alt="Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
