@@ -10,7 +10,7 @@
 <div style="display: inline_block">
 <img align="center" alt="C" height="60" width="50" src=https://icongr.am/devicon/c-original.svg?size=128&color=currentColor>
 <img align="center" alt="Python" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-<img align="center" alt="Javascript" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img align="center" alt="Typescript" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
 <img align="center" alt="Git" height="60" width="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 
 </div>
