@@ -28,7 +28,7 @@
 </div>
 
 ## Reach me 💌
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datapaths/) 
+[![Linkedkin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linedkin&logoColor=white)](https://www.linkedin.com/in/eduardolsoares/) 
 [![Gmail](https://img.shields.io/badge/-eduardo.ls@sempreceub.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:eduardo.ls@sempreceub.com)](mailto:eduardo.ls@sempreceub.com)
 
   
